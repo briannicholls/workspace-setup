@@ -1,0 +1,6 @@
+slack.exe;C:\Users\Brian Brandit\AppData\Local\slack\slack.exe
+firefox.exe;C:\Program Files\Mozilla Firefox\firefox.exe
+brave.exe;C:\Program Files (x86)\BraveSoftware\Brave-Browser\Application\brave.exe
+Code.exe;C:\Users\Brian Brandit\AppData\Local\Programs\Microsoft VS Code\Code.exe
+thunderbird.exe;C:\Program Files\Mozilla Thunderbird\thunderbird.exe
+TablePlus.exe;C:\Program Files\TablePlus\TablePlus.exe
